@@ -39,5 +39,6 @@ Puedes contactarme a través de mis redes sociales:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-andr%C3%A9s-mac%C3%ADas-cuesta-a7a041311/)
 [![X (Twitter)](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ma84892317)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Andres-Macias12)
-📧 [andresmacias978@gmail.com](mailto:andresmacias978@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andresmacias978@gmail.com)
+
 
