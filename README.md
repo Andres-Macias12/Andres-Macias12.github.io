@@ -1,4 +1,3 @@
-# Andres-Macias12.github.io
 # ¡Hola, soy Andrés Macías! 👋
 
 Soy **Jorge Andrés Macías Cuesta**, pero todos me conocen como **Andrés Macías**. Actualmente estudio **Desarrollo de Software** en **Parquesoft**, donde he adquirido habilidades en una amplia variedad de tecnologías. Además, soy **Community Manager** y emprendedor, con mi propio proyecto llamado **VínculoCraft**, enfocado en el desarrollo de sitios web, gestión de redes sociales y construcción de marca.
