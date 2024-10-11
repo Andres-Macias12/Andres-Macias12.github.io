@@ -32,12 +32,12 @@ Estoy abierto a colaborar en proyectos **open-source** y siempre dispuesto a apr
 
 ## 📫 Contacto
 
-Si deseas contactarme, puedes hacerlo a través de mis redes sociales:
+Puedes contactarme a través de mis redes sociales:
 
-- [Facebook](https://www.facebook.com/profile.php?id=100038440729505)  
-- [Instagram](https://www.instagram.com/andresmacu12/)  
-- [LinkedIn](https://www.linkedin.com/in/jorge-andr%C3%A9s-mac%C3%ADas-cuesta-a7a041311/)  
-- [X (Twitter)](https://x.com/ma84892317)  
-- [GitHub](https://github.com/Andres-Macias12)  
-- 📧 [andresmacias978@gmail.com](mailto:andresmacias978@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100038440729505)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/andresmacu12/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-andr%C3%A9s-mac%C3%ADas-cuesta-a7a041311/)
+[![X (Twitter)](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ma84892317)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Andres-Macias12)
+📧 [andresmacias978@gmail.com](mailto:andresmacias978@gmail.com)
 
